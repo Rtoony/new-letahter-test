@@ -1,0 +1,6 @@
+{
+  "name": "Leather Stamp Forge",
+  "description": "A Digital Blacksmith workbench for designing parametric, high-pressure 3D-printable leather embossing dies with draft angle logic and nozzle-aware validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
